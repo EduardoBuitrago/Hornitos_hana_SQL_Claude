@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lotes_Hornitos.Modelos
+{
+    public class EntradaLotes
+    {
+        public string ItemCode { get; set; }
+        public string TipDoc { get; set; }
+        public int NumDoc { get; set; }
+        public int NumLinea { get; set; }
+        public string NumLot { get; set; }
+        public double CantLote { get; set; }
+        public string FchVenLt { get; set; }
+        public string FchAdmLt { get; set; }
+        public string almacen { get; set; }
+
+    }
+}

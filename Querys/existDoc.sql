@@ -1,0 +1,1 @@
+SELECT COUNT('A') FROM [@CLC_LTS] T0 WHERE T0.U_TipDoc = '{0}' AND T0.U_NumDoc = {1}

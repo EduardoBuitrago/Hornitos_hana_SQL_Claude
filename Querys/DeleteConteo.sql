@@ -1,0 +1,1 @@
+DELETE FROM [@CLC_LTSSATEMP] WHERE Name = '{0}' and U_NumDoc = {1} and U_almacen = '{2}' and U_RowNum = {3}
